@@ -20,3 +20,8 @@ This folder contains the fix for task `0-fizzbuzz.py`.
 
 - Added `2-sort.rb`.
 - The script now filters numeric arguments, sorts them in ascending order, and prints one value per line.
+
+## Task 3 - User password
+
+- Added `3-user.py`.
+- Fixed password handling by hashing on set and validating against the same hash method.
