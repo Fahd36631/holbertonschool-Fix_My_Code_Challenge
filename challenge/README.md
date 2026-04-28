@@ -15,3 +15,8 @@ This folder contains the fix for task `0-fizzbuzz.py`.
 
 - Added `1-print_square.js`.
 - The script now prints a square using `#` with exactly `size` rows and `size` columns.
+
+## Task 2 - Sort
+
+- Added `2-sort.rb`.
+- The script now filters numeric arguments, sorts them in ascending order, and prints one value per line.
