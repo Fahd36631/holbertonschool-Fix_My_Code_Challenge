@@ -25,3 +25,8 @@ This folder contains the fix for task `0-fizzbuzz.py`.
 
 - Added `3-user.py`.
 - Fixed password handling by hashing on set and validating against the same hash method.
+
+## Task 4 - Double linked list
+
+- Added `4-delete_dnodeint/` C files for the doubly linked list exercise.
+- Fixed node deletion logic at index by correctly relinking `prev` and `next`, updating head when needed, and handling invalid indexes safely.
